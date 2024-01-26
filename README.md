@@ -6,19 +6,19 @@ She/her, takes [osu!](https://osu.ppy.sh) way too seriously for fun, does other 
 I'm currently studying for a HBO Bachelor degree.
 
 ---
-I have a homeserver on which i run Proxmox, on top of which i run a multitude of things such as:
-- a pfSense custom router which has an IP-SEC Tunnel between my partner's servers,
-- a TrueNAS instance which is used by quite some other personal projects, but also things like photos that are important to me.
-- a DNS server, which also syncs with afformentioned partner's server
-- a Navidrome music server
-- a Immich photo hosting server, including a very cool facial recognition
+I have a homeserver on which I run Proxmox, on top of which I run a multitude of things such as:
+- a pfSense custom router which has an IP-SEC Tunnel between my server and my partner's servers,
+- a TrueNAS instance which is used by quite some other personal projects, but also things like photos that are important to me,
+- a DNS server, which also syncs with afformentioned partner's server,
+- a Navidrome music server,
+- a Immich photo hosting server, including a very cool facial recognition.
 
-Still have some things i wanna setup, such as monitoring tools such as Grafana with InfluxDB
+There's still some things I wanna set up, such as monitoring tools such as Grafana with InfluxDB.
 
 ---
 
-In terms of programming, i haven't done as much of that as infrastructure stuff, but trying to get into it again.
-I like Go, i have a good amount of experience with C#, I want to learn either or both C and Rust.
+In terms of programming, I haven't done as much of that as infrastructure stuff, but trying to get into it again.
+I like Go, I have a good amount of experience with C#, I want to learn either or both C and Rust.
 
 ---
 
