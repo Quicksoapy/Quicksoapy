@@ -11,7 +11,7 @@ I have a homeserver on which I run Proxmox, on top of which I run a multitude of
 - a TrueNAS instance which is used by quite some other personal projects, but also things like photos that are important to me,
 - a DNS server, which also syncs with afformentioned partner's server,
 - a Navidrome music server,
-- a Immich photo hosting server, including a very cool facial recognition.
+- an Immich photo hosting server, including a very cool facial recognition.
 
 There's still some things I wanna set up, such as monitoring tools such as Grafana with InfluxDB.
 
