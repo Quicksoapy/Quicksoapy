@@ -3,7 +3,6 @@
 I am Maya, a student and hobbyist DevOps engineer, based in the Netherlands.
 
 She/her, takes [osu!](https://osu.ppy.sh) way too seriously for fun, does other fun stuff.
-I'm currently studying for a HBO Bachelor degree.
 
 ---
 I have a homeserver on which I run Proxmox, on top of which I run a multitude of things such as:
